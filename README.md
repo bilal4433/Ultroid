@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
